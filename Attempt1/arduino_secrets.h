@@ -1,0 +1,3 @@
+#define SECRET_SSID "EEE"
+#define SECRET_OPTIONAL_PASS "qnh1013hg"
+#define SECRET_DEVICE_KEY "10HSURx57DofXGXNyoB#2hnVa"
